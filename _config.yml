@@ -76,6 +76,3 @@ theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type: git
-  repo: git@github.com:osxlinux/hexo_dir.git

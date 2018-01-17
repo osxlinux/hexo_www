@@ -1,6 +1,10 @@
 .DS_Store
+themes
+scaffolds
+.gitignore
 Thumbs.db
 db.json
 *.log
+source
 node_modules/
 .deploy*/
